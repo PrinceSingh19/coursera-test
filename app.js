@@ -30,10 +30,10 @@
     var service=this;
     var items = [
       {name: "cookies", quantity:"10"},
-      {name: "chocolates", quantity:"20"},
-      {name: "Toffee", quantity:"30"},
-      {name: "bread", quantity:"40"},
-      {name: "cupcakes", quantity:"50"}
+      {name: "pastry", quantity:"10"},
+      {name: "Coffee", quantity:"5"},
+      {name: "Butter", quantity:"20"},
+      {name: "Noodles", quantity:"10"}
     ];
 
     var boughtArray = [];
