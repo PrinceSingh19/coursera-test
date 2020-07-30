@@ -1,0 +1,54 @@
+
+.btn:hover {
+    color: #FFEB3B;
+    text-decoration: initial;
+}
+
+.navbar-brand img{
+    width: 25%;
+}
+header{
+    margin-bottom: 0px;
+}
+.nav-link{
+    font-weight: 600;
+}
+.carousel-item img{
+    width: 989px;
+    height: 309px;
+}
+#left{
+    float: left;
+    width: 40%;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#right{
+    float: left;
+    width: 40%;
+    margin-top: 10px;
+}
+#slider2 img{
+     position: relative;
+    left: 50%;
+    top: 23px;
+    width: 500px;
+    height: 100px;
+    border: #000000;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 23px; 
+    clear: both;
+    
+}
+#align img{
+
+    width: 166.6px;
+    height: 100px;
+    clear: both;
+}
+.page-footer{
+    clear: both;
+}
