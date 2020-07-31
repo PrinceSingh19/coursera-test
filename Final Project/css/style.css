@@ -19,7 +19,7 @@ header{
 }
 #left{
     float: left;
-    width: 40%;
+    width: 50%;
     position: relative;
     margin-left: 10px;
     margin-top: 10px;
@@ -32,7 +32,7 @@ header{
 }
 #slider2 img{
      position: relative;
-    left: 50%;
+    left: 40%;
     top: 23px;
     width: 40%;
     height: 100px;
