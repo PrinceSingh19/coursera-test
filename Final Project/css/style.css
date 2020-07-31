@@ -1,4 +1,5 @@
-
+#nav-bar{
+margin-bottom: 10px;}
 .btn:hover {
     color: #FFEB3B;
     text-decoration: initial;
@@ -62,10 +63,10 @@ header{
      margin: 10% 10% 10% 10%;
 }
 #centee{
-     margin: 10% 10% 10% 13%;
+     margin: 20% 10% 10% 13%;
 }
 #ali{
-       margin: 20% 10% 0% 10%;
+       margin: 15% 10% 0% 10%;
 }
 #alli{
        margin: 10% 10% 0% 10%;
