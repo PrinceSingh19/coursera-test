@@ -34,20 +34,20 @@ header{
      position: relative;
     left: 50%;
     top: 23px;
-    width: 500px;
+    width: 40%;
     height: 100px;
     border: #000000;
     border-style: solid;
     border-width: 1px;
     margin-top: 23px; 
-    clear: both;
+    float: left;
     
 }
 #align img{
 
-    width: 166.6px;
+    width: 40%;
     height: 100px;
-    clear: both;
+    float: left;
 }
 .page-footer{
     clear: both;
